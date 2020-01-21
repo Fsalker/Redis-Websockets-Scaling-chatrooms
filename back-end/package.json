@@ -1,0 +1,19 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0",
+    "redis": "^2.8.0",
+    "socket.io": "^2.3.0"
+  }
+}
